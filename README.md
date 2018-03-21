@@ -32,9 +32,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## What includes
   
-  jQuery
-  Bootstrap
-  font-awesome
-  css reset Code
-  
-  and many more....
+  jQuery,
+  Bootstrap,
+  font-awesome,
+  css reset Code and many more....
